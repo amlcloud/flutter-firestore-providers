@@ -1,5 +1,4 @@
-
-Welcome to **flutter-firestore-providers**~
+Welcome to **flutter-firestore-providers**
 
 This is a library of shortcut functions to simplify the use of [Firestore] collections and documents when working with [Riverpod].
 
